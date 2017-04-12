@@ -8,7 +8,7 @@ public class Character {
 		
 		int fortSave, refSave, willSave;
 		int baseAttackBonus;
-		int AC;
+		int AC = 10;
 		int CMB, CMD;
 		int initiative;
 		int HP;
